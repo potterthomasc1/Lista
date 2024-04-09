@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="movie" tvg-name="Geostorm (2017)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg" group-title="movie",Geostorm (2017)
+#EXTINF:0 tvg-id="movie" tvg-name="Geostorm (2017)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg" group-title="movie",Geostorm (2017)
 https://api.onedrive.com/v1.0/shares/s!AsiP8bEqCjGAgQaou-NvAa1jNKFE/root/content
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg" ,Geostorm (2017)
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg" ,Geostorm (2017)
 https://api.onedrive.com/v1.0/shares/s!AsiP8bEqCjGAgQaou-NvAa1jNKFE/root/content
